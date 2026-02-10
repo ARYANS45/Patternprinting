@@ -4,15 +4,15 @@
     {
         static void Main(string[] args)
         {
-           // ptrnprt();
-            //ptrnprt2();
-            //hollowtri();
-            //hollowtri2();
+            ptrnprt();
+            ptrnprt2();
+            hollowtri();
+            hollowtri2();
 
-            //reverseright.revpyramid();
-            //squarepattern.sqrptr();
-            //reverseleft.revpyramid();
-            // rhombuspattern.rhmptr();
+            reverseright.revpyramid();
+            squarepattern.sqrptr();
+            reverseleft.revpyramid();
+            rhombuspattern.rhmptr();
             reversenumbertri.revnumtri();
 
             Console.ReadLine();
@@ -120,4 +120,5 @@
         
    }
 }
+
  
